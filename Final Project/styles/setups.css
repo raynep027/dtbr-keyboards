@@ -1,0 +1,72 @@
+.navbar-bg {
+    background-color: #343a40;
+}
+/*#page-content {
+    display: block;
+    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.carousel-item {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.search-bar-bg {
+    background-color: #6c757d;
+    padding: 10px 0;
+}
+.main-content {
+    /*padding: 20px;*/
+    display: block;
+    padding: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.card-title {
+    text-align: center;
+    margin: 40px;
+}
+.product {
+    display: flex;
+    border: black solid 2px;
+    padding: 10px;
+    margin: 20px 0;
+}
+.product img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border: black solid 2px;
+}
+.find-product-section h1 {
+    padding-top: 20px;
+}
+.subscribe-section {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer {
+    background-color: #212529;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.about-content {
+    background-color: darkgrey;
+    padding: 20px;
+    margin-top: 20px;
+}
+.why-choose-us {
+    background-color: darkgrey;
+    padding: 20px;
+    margin-top: 20px;
+}
